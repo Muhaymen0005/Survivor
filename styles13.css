@@ -1,0 +1,18 @@
+h1{color: darkred;
+	font-size: 1.2em;
+	font-family: 'Yomogi', cursive;}
+h2{color: darkred;
+	font-size: 1.2em;
+	font-family: 'Yomogi', cursive;}
+h3{text-align: center;
+	color: #880808;
+	font-size: 3.0em;
+	font-family: 'Splash', cursive;}
+h4{text-align: center;
+	color: #880808;
+	font-size: 2.5em;
+	font-family: 'Splash', cursive;}
+h5{color: #880808;
+	font-size: 2.5em;
+	font-family: 'Splash', cursive;}
+body{background-image: url(https://live.staticflickr.com/8682/16680145511_dd41ff9c11_k.jpg)}

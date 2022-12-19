@@ -1,0 +1,18 @@
+h1{color: darkred;
+	font-size: 2.5em;
+	font-family: 'Passions Conflict', cursive;}
+h2{color: #FFD700;
+	font-size: 2.5em;
+	text-align: center;
+	font-family: 'Shadows Into Light', cursive;}
+h3{font-size: 2.5em;
+	font-family: 'Splash', cursive;}
+h4{font-size: 2.5em;
+	font-family: 'Splash', cursive;}
+body{background-color: #030303}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}

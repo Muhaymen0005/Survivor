@@ -1,0 +1,22 @@
+h1{color: darkred;
+	font-size: 2.2em;
+	font-family: 'Shadows Into Light', cursive;}
+h2{text-align: center;
+	color: #FFD700;
+	font-size: 3.5em;
+	font-family: 'Shadows Into Light', cursive;}
+h3{color: #bf00ff;
+	font-size: 2.5em;
+	font-family: 'Amatic SC', cursive;}
+h4{font-size: 2.5em;
+	font-family: 'Amatic SC', cursive;}
+body{background-color: #260033}
+.column{
+	float: left;
+	width: 50%;
+}
+.row:after{
+	content: "";
+	display: table;
+	clear: both;
+}
